@@ -16,12 +16,12 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Castelo — Exclusive Fashion',
+  title: 'Castelo — Exclusive Women\'s Fashion',
   description: 'Nova Coleção Castelo. Elegância e sofisticação em roupas femininas de luxo.',
   generator: 'v0.app',
   keywords: 'women\'s fashion, luxury clothing, exclusive fashion, designer clothes, Castelo',
   openGraph: {
-    title: 'Castelo — Exclusive Fashion',
+    title: 'Castelo — Exclusive Women\'s Fashion',
     description: 'Nova Coleção Castelo. Elegância e sofisticação em roupas femininas de luxo.'
     type: 'website',
   },
